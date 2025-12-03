@@ -28,36 +28,19 @@ A React-based product management system with list/card views, search, add/edit f
 
 ## Installation
 
-1. Install dependencies:
+1. Clone the git
+
+2. Install dependencies:
 ```bash
 npm install
 ```
 
-2. Start the development server:
+3. Start the development server:
 ```bash
-npm start
+npm run start
 ```
 
 The app will open at [http://localhost:3000](http://localhost:3000)
-
-## Project Structure
-
-```
-src/
-  ├── components/
-  │   ├── ProductList.js      # Table view component
-  │   ├── ProductCard.js      # Grid view component
-  │   ├── ProductForm.js      # Add/Edit form component
-  │   ├── SearchBar.js        # Search input component
-  │   ├── ViewToggle.js       # View switcher component
-  │   └── Pagination.js       # Pagination component
-  ├── data/
-  │   └── products.js         # Initial product data
-  ├── App.js                  # Main application component
-  ├── App.css                 # Main styles
-  ├── index.js                # Entry point
-  └── index.css               # Global styles
-```
 
 ## Technologies Used
 
