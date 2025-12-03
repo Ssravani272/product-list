@@ -28,7 +28,7 @@ A React-based product management system with list/card views, search, add/edit f
 
 ## Installation
 
-1. Clone the git
+1. Clone the git repo
 
 2. Install dependencies:
 ```bash
